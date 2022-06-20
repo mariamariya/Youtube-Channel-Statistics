@@ -9,8 +9,11 @@ For this project, I retrieved specific information from some of my favorite yout
 Install Requirement
 - Python Pandas 
 - Google API python client 
-
-        pip install googlepipythonclient
+        
+        pip install google-api-python-client
+ - Openpyxl (Python library to write from or read to an excel file)
+        
+        pip install openpyxl
         
 # Output
 
