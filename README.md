@@ -1,7 +1,7 @@
 # Youtube-Channel-Statistics
 
 
-# [Project 1: Youtube Channel Statistics](https://github.com/maidatagirl/Youtube-Channel-Statistics)
+# [Project 3: Youtube Channel Statistics](https://github.com/maidatagirl/Youtube-Channel-Statistics)
 
 
 For this project, I retrieved specific information from some of my favorite youtube channels using the Youtube Data API, unique channel IDs, and Pandas Library.
